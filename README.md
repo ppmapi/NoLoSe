@@ -1,8 +1,10 @@
 Probando
 ========
 
-
+###### Titulo ######
+##### Titulo #####
 #### Titulo ####
+### Titulo ###
 ## Titulo ##
 # Titulo #
 
@@ -15,10 +17,4 @@ bla bla bla
 <a href="">prueba</a>
 ```
 
-``html
-<a href="">prueba</a>
-``
-
-`html
-<a href="">prueba</a>
-`
+`prueba texto caja`
