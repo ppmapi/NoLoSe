@@ -45,10 +45,13 @@ para poner listas se hace con el asterisco
 * elemento 1
 * elemento 2
 
+`* elemento 1`
+
 -
 para escribir en negrita con dos asteriscos
 
 **negrita**
+`**negrita**`
 
 -
 por ahora con esto ya es suficiente para hacer descripciónes de proyectos 
